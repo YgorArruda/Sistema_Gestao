@@ -1,0 +1,5 @@
+# Arquivos Ignorados por Default
+/shelf/
+/workspace.xml
+# Caminho dependente do ambiente para o diretório home do Maven
+/mavenHomeManager.xml
